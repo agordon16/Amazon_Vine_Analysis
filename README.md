@@ -5,11 +5,11 @@ The purpose of the analysis is to determine if there is any bias towards favorab
 ## Results
 * How many Vine reviews and non-Vine reviews were there?
     * 21 Vine reviews
-    * 7910 non_Vine reviews
+    * 7910 non-Vine reviews
 
 * How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
-    * 11 5-star reviews by Vine participants 
-    * 4502 5-star reviews by non-Vine participants.
+    * 5-star reviews by Vine participants = 11
+    * 5-star reviews by non-Vine participants = 4502
 
 * What percentage of Vine reviews were 5 stars?
    * 52.38%
